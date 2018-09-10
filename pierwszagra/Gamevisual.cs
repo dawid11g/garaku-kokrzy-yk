@@ -5,7 +5,7 @@ namespace pierwszagra
 {
     internal class Gamevisual
     {
-        string[] kord = new string[10];
+        string[] kord = new string[9];
         int wyborstrony;
         string wybrano;
         string kordynaty;
